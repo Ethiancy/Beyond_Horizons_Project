@@ -7,6 +7,10 @@ body
 img { max-height: 100%;
 	max-width: 100%; }
 	
+table, th, td
+	{ background-color: #323232; color: #76BADE;
+	border: 2px solid black; }
+	
 header
 	{ background-color: #212121; color: #76BADE;
 	background-repeat: no-repeat;
